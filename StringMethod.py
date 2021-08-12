@@ -2,7 +2,7 @@
 def main():
     name = "Tien Dat"
 
-    # print(len(name));
+    print(len(name));
     # print(name.find("n"))
     # print(name.capitalize()) "in chu cai dau tien trong chuoi do"
     # print(name.lower())
